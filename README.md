@@ -17,4 +17,5 @@ Welcome to my personal portfolio site! This website showcases my projects, skill
 ## Usage
 ## Features
 ## Technologies Used
+Nuxt JS + Tailwind CSS
 ## Contact
