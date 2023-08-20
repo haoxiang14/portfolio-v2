@@ -1,5 +1,5 @@
 <template>
-    <div class="px-16 py-8">
+    <div class="px-16 py-20">
         <h1 class="font-semibold text-2xl"> Contact </h1>
         <p class="font-normal text-xl py-6 text-gray-500"> Feel free to reach out to me via any of the following channels below 😎 </p>
         <div class="flex-column">

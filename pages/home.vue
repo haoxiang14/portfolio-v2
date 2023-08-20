@@ -1,6 +1,6 @@
 <template>
-    <div class="px-16 py-8">
-        <div class="py-8 flex space-x-4">
+    <div class="px-16 py-20">
+        <div class="pb-8 flex space-x-4">
             <img src="~/assets/nftnear.png" alt="pfp-near" class="rounded-full w-36 h-36"/>
             <div class="px-16">
                 <h1 class="font-semibold text-2xl"> GM, I'm Hao Xiang 👋 </h1>
