@@ -1,7 +1,7 @@
 <template>
     <div class="px-4 py-4 lg:px-20 lg:py-20">
         <h1 class="font-bold text-2xl lg:text-3xl"> Contact 📞 </h1>
-        <p class="font-normal text-lg lg:text-xl py-6 text-gray-500"> Feel free to reach out to me via any of the following channels below 😎 </p>
+        <p class="font-normal lg:text-xl py-6 text-gray-500"> Feel free to reach out to me via any of the following channels below 😎 </p>
         <div class="flex-column">
             <div>
                 <a href="mailto: haoxiangt.14@gmail.com" target="_blank" class="flex items-center">

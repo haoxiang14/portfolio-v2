@@ -5,7 +5,7 @@
             <iframe :src="pdf" type="application/pdf" width="100%" height="1000px"/>
         </div>
         
-        <p class="lg:hidden py-4"> Your web browser doesn't have a PDF plugin 🥲.
+        <p class="lg:hidden py-4 text-gray-500"> Your web browser doesn't have a PDF plugin 🥲.
         Instead you can click <a :href="pdf" class="hover:underline"> 📌 here  </a> to download the resume. </p>
         <img class="lg:hidden py-4" src="../assets/doge-smile.png" alt="doge"/>
         

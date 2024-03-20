@@ -3,7 +3,7 @@
         <div class="lg:col-span-1 bg-gray-300">
             <sidebar/>
         </div>
-        <div class="lg:col-span-4">
+        <div class="lg:col-span-4 mb-24">
             <NuxtPage/>
         </div>
     </div>
