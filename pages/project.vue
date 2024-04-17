@@ -3,7 +3,7 @@
         <h1 class="font-bold text-2xl lg:text-3xl"> Project 📂 </h1>
         <p class="font-normal lg:text-xl py-4 lg:py-8 text-gray-500"> Welcome to my digital sanctuary, where I merge programming, creativity, and research to explore the exciting realms of web development, emerging technologies, and the future of digital innovation. </p>
     
-        <div class="py-4 lg:py-8 flex grid grid-cols-1 lg:grid-cols-5">
+        <!-- <div class="py-4 lg:py-8 flex grid grid-cols-1 lg:grid-cols-5">
             <img class="lg:col-span-3 rounded-t-xl lg:rounded-t-none lg:rounded-tl-xl lg:rounded-bl-xl" src="../assets/article.png" alt="project-poster"/>
             <div class="lg:col-span-2 border border-gray-200 rounded-b-xl lg:rounded-b-none lg:rounded-tr-xl lg:rounded-br-xl px-10 py-10">
                 <a href="https://www.google.com" target="_blank" class="font-bold text-xl flex items-center">
@@ -13,7 +13,7 @@
                 <p class="font-normal text-lg lg:text-xl text-gray-500 py-4 break-words"> Testing </p>
                 <p class="font-normal text-base lg:text-lg text-gray-400"> Test </p>
             </div>
-        </div>
+        </div> -->
     </div>
 </template>
 
