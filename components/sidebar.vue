@@ -2,7 +2,7 @@
     <div class="hidden lg:block lg:min-h-screen font-medium px-4 lg:px-8 lg:py-20">
         <nav>
             <ul class="flex flex-col">
-                <li v-for="(item, index) in items" :key="index" :class="['mb-2 hover:bg-gray-200 px-4 py-2 my-4 rounded-md', { 'bg-gray-200': selectedItem === index }]" @click="selectedItem = index">
+                <li v-for="(item, index) in items" :key="index" :class="['mb-2 hover:bg-gray-200 px-4 py-2 my-2 rounded-md', { 'bg-gray-200': selectedItem === index }]" @click="selectedItem = index">
                     <NuxtLink :to="item.path" class="flex items-center">
                         <div v-html="item.svg"></div>
                         <p class="px-4"> {{ item.name }} </p>
