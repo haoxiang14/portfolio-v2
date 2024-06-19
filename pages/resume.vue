@@ -12,6 +12,9 @@
     </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
     import pdf from '../assets/CV.pdf';
+    useHead({
+        title: 'Resume',
+    });
 </script>

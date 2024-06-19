@@ -17,7 +17,10 @@
     </div>
 </template>
 
-<script>
+<script setup lang="ts">
+  useHead({
+    title: 'Project',
+  });
 
 // export default {
 //     data() {
