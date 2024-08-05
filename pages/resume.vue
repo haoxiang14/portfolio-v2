@@ -13,7 +13,7 @@
 </template>
 
 <script setup lang="ts">
-    import pdf from '../assets/CV.pdf';
+    import pdf from '../assets/resume.pdf';
     useHead({
         title: 'Resume',
     });
