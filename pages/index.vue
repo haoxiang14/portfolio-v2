@@ -4,7 +4,7 @@
             <img src="~/assets/cilantro.jpeg" alt="pfp-near" class="w-36 h-36 rounded-full mx-auto lg:mx-0"/>
             <div class="lg:grid lg:grid-col-4 py-4 lg:pb-8 lg:pl-8">
                 <h1 class="lg:col-span-1 text-2xl lg:text-3xl font-bold text-center lg:text-left"> GM, I'm Hao Xiang 👋 </h1>
-                <p class="text-gray-500 lg:col-span-3 lg:text-xl pt-4 lg:pt-8"> I'm a student in Asia Pacific University, Kuala Lumpur, Malaysia, majoring in Computer Science. I'm interested in Data Science, Blockchain and Web Development. </p>
+                <p class="text-gray-500 lg:col-span-3 lg:text-xl pt-4 lg:pt-8">  I am a Computer Science graduate from Asia Pacific University in Kuala Lumpur, Malaysia, with a strong interest in Data Analytics, Blockchain, and Web Development. </p>
             </div>
         </div>
         <hr/>
