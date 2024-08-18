@@ -11,7 +11,7 @@ export default ({
       viewport: 'width=device-width, initial-scale=1',
     }
   },
-  devtools: { enabled: false },
-  modules: ['@nuxtjs/tailwindcss'],
-});
 
+  devtools: { enabled: false },
+  modules: ['@nuxtjs/tailwindcss','@nuxt/content']
+});
