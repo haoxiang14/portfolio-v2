@@ -25,4 +25,8 @@
 
 const { data: articles } = await useAsyncData('home', () => queryContent('/articles').find());
 
+useHead({
+  title: 'Articles',
+});
+
 </script>
