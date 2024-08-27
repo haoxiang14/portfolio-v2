@@ -13,5 +13,6 @@ export default ({
   },
 
   devtools: { enabled: false },
-  modules: ['@nuxtjs/tailwindcss','@nuxt/content']
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/content', "@nuxt/image"],
+  compatibilityDate: '2024-08-26'
 });

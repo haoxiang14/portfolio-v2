@@ -21,3 +21,7 @@ logs
 .env
 .env.*
 !.env.example
+
+content/articles/markdown.md
+content/articles/test.md
+content/articles/test1.md
