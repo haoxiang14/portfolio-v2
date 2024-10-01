@@ -31,7 +31,7 @@ Despite three years since our club's launch, many people are still unaware of ou
 
 Asia Pacific University Blockchain & Cryptocurrency Club (APUBCC), founded in 2021, has rapidly evolved into a vibrant hub for student blockchain enthusiasts and innovators. With over 600 members, 30+ partners, and a track record of hosting 30+ events, APUBCC provides a central hub for learning, sharing, and creating in the blockchain and cryptocurrencies space.
 
-Our mission is always clear: **to be the leading student hub for Web3 talent**, **fostering skills and creativity** to advance blockchain both locally and globally. 
+Our mission has always been clear: **to be the leading student hub for Web3 talent**, **fostering skills and creativity** to advance blockchain both locally and globally. 
 
 Guided by a dedicated committee of 30+ members, the club has nurtured notable Web3 contributors like:
 
@@ -42,7 +42,7 @@ Guided by a dedicated committee of 30+ members, the club has nurtured notable We
 - [Yudhishthra](https://x.com/0xYudhishthra)
     - Junior Developer in Nethermind
     - Ex-Etherscan
-    - Former President in APUBCC
+    - Former President of APUBCC
 <div class="flex justify-left">
   <img src="https://pbs.twimg.com/profile_images/1812723424843673600/suWDt8Z8_400x400.jpg" alt="Shuen Rui" class="h-auto">
 </div>
@@ -50,7 +50,7 @@ Guided by a dedicated committee of 30+ members, the club has nurtured notable We
 - [Lee Shuen Rui](https://x.com/ShuenRui)
     - Research Analyst in EVM.ink
     - Ex-Virtuals (previously PathDAO)
-    - Former President in APUBCC
+    - Former President of APUBCC
 
 <div class="flex justify-left">
   <img src="https://pbs.twimg.com/profile_images/1721063958998917120/9EOtv6d9_400x400.jpg" alt="Hao Xiang" class="h-auto">
@@ -60,7 +60,7 @@ Guided by a dedicated committee of 30+ members, the club has nurtured notable We
     - Devrel & Partnerships in SuperteamMY
     - Ex-Arbitrum Ambassador
     - Ex-CoinGecko
-    - Former External Relation, Community Builder, Research Guy, Chief Troll Officer (CTO) in APUBCC
+    - Former External Relation, Community Builder, Research Guy, Chief Troll Officer (CTO) of APUBCC
 
 <br>
 
@@ -113,13 +113,13 @@ APUBCC is still a young club, started only three years ago. Like any new group, 
 
 One of our primary hurdles has been **the development of a healthy organizational culture**. This including:
 - **Unhealthy team culture** <br>
-We have had some toxic behavior, including gossip among team members. This hurts our ability to work together and solve problems. Instead of talking things out directly, some people spread rumors and talking bad about others behind which damages trust in our team.
+We have had some toxic behavior, including gossip among team members. This hurts our ability to work together and solve problems. Instead of talking things out directly, some people spread rumors and talk badly about others behind their backs, which damages trust in our team.
 - **Leadership and task distribution issues** <br>
 Leaders, including myself, often do tasks alone instead of sharing the work. We might think this is faster or ensures better quality, but it causes problems. Some team members end up with nothing to do, making them feel left out or unimportant.
 
 We also **face significant challenges in retaining committee members and contributors**:
 
-- **Perceived lack of value and long term vision**
+- **Perceived lack of value and long-term vision**
     
     Many committees leave or lose interest in our club due to unclear benefits. While some join for immediate perks like free swags or event access, this misses the club's true value. A few ex-committees commented lack of values in the club, but I always see it differently:
     
@@ -135,7 +135,7 @@ We also **face significant challenges in retaining committee members and contrib
     
     Many lose interest because they fail to recognize these less tangible but more significant benefits. The club's value lies in the opportunities it provides for skill development and career advancement, not just in immediate material rewards. <br><br>
 - **Stress from frequent events**<br>
-    We reached a point where our club was organizing an excessive number of events without clear outcomes or benefits for our committees. This approach led to overwhelming stress and exhaustion among committee members, with a focus on quantity over quality in our events. We neglected the needs and growth of our organizing team in the process. Moving forward, we should prioritize quality events over sheer quantity, ensuring each event has clear benefits for both attendees and organizers. We also need to be more selective with our partnerships and event choices. As part of leadership team, I will take responsibility for overlooking this issue and am committed to addressing it. <br><br>
+    We reached a point where our club was organizing an excessive number of events without clear outcomes or benefits for our committees. This approach led to overwhelming stress and exhaustion among committee members, with a focus on quantity over quality in our events. We neglected the needs and growth of our organizing team in the process. Moving forward, we should prioritize quality events over sheer quantity, ensuring each event has clear benefits for both attendees and organizers. We also need to be more selective with our partnerships and event choices. As part of the leadership team, I will take responsibility for overlooking this issue and am committed to addressing it. <br><br>
 - **Competing priorities**<br>
     Many committee members resigned to focus on their Final Year Projects (FYP), highlighting the natural priority shift as students approach graduation. This underscores our need to better balance club activities with academic responsibilities. My personal approach was to prioritize club involvement, seeing greater long-term benefits, while still maintaining strong academic performance. Going forward, we should create more flexible roles for final-year students, explore ways to integrate club activities with academic projects, and highlight how club experiences can complement academic work. This balance can help us retain experienced members while respecting their academic commitments.
 
