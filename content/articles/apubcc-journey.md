@@ -172,6 +172,8 @@ These problems make it hard for our club to grow and keep members involved. We n
 
 # Achievements
 
+Despite the numerous challenges we have faced, APUBCC has nonetheless achieved remarkable success.
+
 ## Notable Club Achievements
 ### **First and Largest Blockchain Club in Malaysia**
 Founded in 2021, APUBCC quickly became Malaysia's leading blockchain club, growing to about 600 members by 2024. We pioneered blockchain education in Malaysian universities, setting new standards for student engagement. Our rapid growth from zero to 600 members in three years shows both the rising importance of blockchain and our success in meeting students' educational needs. We are definitely proud to be the first student-led blockchain community in Malaysia, consistently expanding our reach and raising the bar for blockchain activities and learning in universities.
