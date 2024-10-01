@@ -1,5 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
+import plugin from "@tailwindcss/typography";
+
 // import { defineNuxtConfig } from 'nuxt/config';
 
 
@@ -14,5 +16,8 @@ export default ({
 
   devtools: { enabled: false },
   modules: ['@nuxtjs/tailwindcss', '@nuxt/content', "@nuxt/image"],
+  // plugins: '~/plugins/open-graph.js',
   compatibilityDate: '2024-08-26'
 });
+
+

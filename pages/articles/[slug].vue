@@ -24,16 +24,13 @@
 <script setup>
   
   const route = useRoute()
-  const { data: article } = await useAsyncData('home', () => queryContent(`/articles/${route.params.slug}`).findOne())
-
-  const head = () => ({
-    title: article.title,
+  const { data: article } = await useAsyncData('home', () => queryContent(`/articles/${route.params.slug}`).findOne());
+  useHead({
+    title: article.value.title,
     meta: [
-      { hid: 'og:title', property: 'og:title', content: article.title },
-      { hid: 'og:description', property: 'og:description', content: article.description },
-      { hid: 'og:image', property: 'og:image', content: article.image },
-      { hid: 'og:url', property: 'og:url', content: `https://haoxiang14.com/articles/${route.params.slug}` },
-      { hid: 'og:type', property: 'og:type', content: 'article' }
-    ]
-  })
+      { name: 'description', content: article.value.description },
+      { name: 'image', content: article.value?.image }
+    ],
+
+  });
 </script>
