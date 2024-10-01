@@ -5,22 +5,27 @@ date: "2024-09-15"
 image: "/images/apubcc-journey.png"
 slug: "apubcc-journey"
 type: [APUBCC]
-readtime: "18 mins"
+readtime: "20 mins"
 ---
+<br>
+
 # Table of Contents
 
 1. [I never heard of APUBCC, what's that?](#i-never-heard-of-apubcc-whats-that)
-2. [3 years of journey, GMI or NGMI?](#3-years-of-journey-gmi-or-ngmi)
+2. [Three years of journey, GMI or NGMI?](#three-years-of-journey-gmi-or-ngmi)
    - [Our Focus Throughout 3 Years](#our-focus-throughout-3-years)
    - [Challenges that we faced](#challenges-that-we-faced)
 3. [Achievements](#achievements)
    - [Notable Club Achievements](#notable-club-achievements)
    - [Personal Achievements within the club](#personal-achievements-within-the-club)
 4. [Closing Thoughts](#closing-thoughts)
+5. [Learn More](#learn-more)
 
 ---
 
 Despite three years since our club's launch, many people are still unaware of our activities, purpose, and significance within our community. Hence, I have decided to write this piece to share about our club and my journey as a founder, member, committee member, and leader.
+
+<br>
 
 # I never heard of APUBCC, what's that?
 
@@ -48,7 +53,7 @@ Guided by a dedicated committee of 30+ members, the club has nurtured notable We
     - Former President in APUBCC
 
 <div class="flex justify-left">
-  <img src="https://pbs.twimg.com/profile_images/1721063958998917120/9EOtv6d9_400x400.jpg" alt="Shuen Rui" class="h-auto">
+  <img src="https://pbs.twimg.com/profile_images/1721063958998917120/9EOtv6d9_400x400.jpg" alt="Hao Xiang" class="h-auto">
 </div>
 
 - [Me (Shameless self promote)](https://x.com/haoxiang_14)
@@ -57,8 +62,9 @@ Guided by a dedicated committee of 30+ members, the club has nurtured notable We
     - Ex-CoinGecko
     - Former External Relation, Community Builder, Research Guy, Chief Troll Officer (CTO) in APUBCC
 
+<br>
 
-# 3 years of journey, GMI or NGMI?
+# Three years of journey, GMI or NGMI?
 
 Our club's journey began in 2021, and I was privileged to be among its founding members. In those “good old days”, I took on the responsibility of establishing our digital footprint, which involved setting up our official email, creating and managing our social media accounts, and building our online community platforms, including our Discord server and WhatsApp group. These initial steps were pretty much important for our club's growth and engagement with the members.
 
@@ -82,22 +88,33 @@ Our club's focus has evolved significantly over the years, reflecting the unique
 Here’s an overview of how our priorities have shifted under each president:
 
 - **First President (August 2021 - June 2022)** <br>
-During the first presidency, from August 2021 to June 2022, our club primarily focused on trading, cryptocurrency, and event organization. <br> <br> The composition of our committee reflected this emphasis, with most members coming from business backgrounds and a smaller group from computing. Many members joined the club hoping to gain knowledge about cryptocurrency investments. This initial interest in potential financial gains shaped our early event planning.<br> <br> However, this narrow focus didn't come without its challenges. We frequently received feedback and complaints about the nature of our events, suggesting a disconnect between our offerings and the broader interests of the student body. Even though we faced challenges and had different ideas about what events to organize, we didn't give up. Our team worked hard to offer a variety of events, trying to find a balance between our members' interest in trading and other important blockchain topics such as NFTs, Game-Fi and etc. In fact, this period was important in building practical market knowledge and fostering strong community engagement. <br> <br> As a core committee of the team, I took on responsibilities in community building and marketing. During the time, I also took the initiatives to host informal discussion ranging different topics including blockchain fundamentals, NFTs, P2E and etc. <br> <br> This experience significantly improved my soft skills, particularly my English speaking ability. It also enhanced my research skills and gave me a deep understanding of how to nurture and grow a vibrant blockchain community. <br> <br>
+During the first presidency, from August 2021 to June 2022, our club primarily focused on **trading, cryptocurrency, and event organization**. <br> <br> The composition of our committee reflected this emphasis, with most members coming from business backgrounds and a smaller group from computing. Many members joined the club hoping to gain knowledge about cryptocurrency investments. This initial interest in potential financial gains shaped our early event planning.<br> <br> However, this narrow focus didn't come without its challenges. We frequently received feedback and complaints about the nature of our events, suggesting a disconnect between our offerings and the broader interests of the student body. Even though we faced challenges and had different ideas about what events to organize, we didn't give up. Our team worked hard to offer a variety of events, trying to find a balance between our members' interest in trading and other important blockchain topics such as **NFTs, Game-Fi** and etc. In fact, this period was important in building practical market knowledge and fostering strong community engagement. <br> <br> As a core committee of the team, I took on responsibilities in community building and marketing. During the time, I also took the initiatives to host informal discussion ranging different topics including blockchain fundamentals, NFTs, P2E and etc. <br> <br> This experience significantly improved my soft skills, particularly my English speaking ability. It also enhanced my research skills and gave me a deep understanding of how to nurture and grow a vibrant blockchain community. <br> <br> <ins>Our most sucessful event in 2022: </ins> <br><br> **Multichain Voyage**, our most successful event during that period, brought together partners from various blockchain networks—including **Ethereum, Polygon, Algorand, Near** and so on. This was our first time gathering partners from across notable blockchain projects, which not only increased our exposure but also demonstrated our capability in facilitating collaboration among different partners. <br> <div class="flex justify-center"><img src="/images/multichain-voyage.png" alt="partners" class="w-full h-auto">
+</div><br>
 
 - **Second President (July 2022 - August 2023)** <br>
-From July 2022 to August 2023, our group underwent significant changes, shifting our focus towards a deeper understanding of blockchain technology and improved organizational development. We concentrated on grasping blockchain fundamentals, conducting project research, and enhancing our team's skills. During this period, I stepped into more prominent leadership roles, particularly in research, and took charge of organizing events and facilitating group discussions. <br> <br> Our main goals remained consistent throughout this time. We aimed to **provide opportunities for our team members, including internships, jobs, and ambassador roles**. We also focused on **increasing knowledge across the group** and **creating an environment where people could learn and develop their skills**. <br> <br> This experience was crucial for my personal growth. It significantly improved my research abilities, communication skills, and leadership capabilities. Moreover, it taught me valuable lessons about guiding a team and managing complex projects in the blockchain space. These newly acquired skills and insights have proven to be incredibly valuable in my professional development. <br> <br>
+From July 2022 to August 2023, our group underwent significant changes, shifting our focus towards a deeper understanding of blockchain technology and improved organizational development. We concentrated on grasping blockchain fundamentals, conducting project research, and enhancing our team's skills. During this period, I stepped into more prominent leadership roles, particularly in research, and took charge of organizing events and facilitating group discussions. <br> <br> Our main goals remained consistent throughout this time. We aimed to **provide opportunities for our team members, including internships, jobs, and ambassador roles**. We also focused on **increasing knowledge across the group** and **creating an environment where people could learn and develop their skills**. <br> <br> This experience was crucial for my personal growth. It significantly improved my research abilities, communication skills, and leadership capabilities. Moreover, it taught me valuable lessons about guiding a team and managing complex projects in the blockchain space. These newly acquired skills and insights have proven to be incredibly valuable in my professional development. <br><br> <ins>Our first bootcamp ever: </ins><br><br> We have always aimed to share our knowledge with our members. This led to our first Web3 Skill Up bootcamp, designed to **refresh and strengthen foundational Web3 knowledge**. We collaborated with famous industry partners to make this happen, including **CoinGecko and Etherscan**—two crypto giants in Malaysia. I also took the initiative to host a CoinGecko API workshop during the bootcamp, utilizing free API keys provided by CoinGecko. <br> <div class="container mx-auto">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
+    <div class="w-full">
+      <img src="/images/bootcamp-web3.png" alt="partners" class="w-full h-auto object-cover">
+    </div>
+    <div class="w-full">
+      <img src="/images/bootcamp-web3-2.png" alt="second image" class="w-full h-auto object-cover">
+    </div>
+  </div>
+</div> <br>
 
 - **Third President (September 2023 - September 2024)** <br>
-As my tenure as research lead came to an end, our president recognized my potential in external relations and public relations. Consequently, I was reassigned to manage our partnerships and external connections, a role that had become increasingly important for our club's growth. <br> <br> Working alongside Kai Min, we successfully secured substantial funding for various club activities, including events, hackathons, and workshops. Our efforts in applying for grants and seeking opportunities played a crucial role in ensuring the club's financial sustainability. <br> <br> Our president, a technology enthusiast with a strong background in hackathons, brought a unique perspective to the club. His experience ranged from Web 2 to Web 3 technologies, and he was known as "Eth Maxi" before turning into "Chain Fxxkboy" after realising the importance to be chain-agnostic. This background significantly influenced the club's direction. <br> <br> Under his leadership, the club's focus shifted towards more practical, hands-on activities. We began prioritizing project development, hosting technology-related bootcamps, and organizing hackathons. The president strongly encouraged all committee members to participate in hackathons, regardless of their technical background.<br> <br> This new direction marked a significant change from our previous emphasis on building foundational knowledge in cryptocurrency. Instead, we started concentrating on practical skill development and expanding our technical expertise. While this approach offered valuable hands-on experience, it represented a departure from our earlier focus on comprehensive crypto education. <br> <br> Taking on the external relations role significantly boosted my personal and professional growth. I developed crucial skills in communication, networking, and strategic partnership building. This experience taught me to engage effectively with diverse partners, create mutually beneficial arrangements, and represent our club professionally. I learned to tailor my communication style, negotiate partnerships, and think creatively to align our goals with external parties. These skills have proven invaluable, contributing to both the club's success and my own ongoing personal development.
+As my tenure as research lead came to an end, our president recognized my potential in external relations and public relations. Consequently, I was reassigned to manage our partnerships and external connections, a role that had become increasingly important for our club's growth. <br> <br> Working alongside Kai Min, we successfully secured substantial funding for various club activities, including events, hackathons, and workshops. Our efforts in applying for grants and seeking opportunities played a crucial role in ensuring the club's financial sustainability. <br> <br> Our president, a technology enthusiast with a strong background in hackathons, brought a unique perspective to the club. His experience ranged from Web 2 to Web 3 technologies, and he was known as "Eth Maxi" before turning into "Chain Fxxkboy" after realising the importance to be chain-agnostic. This background significantly influenced the club's direction. <br> <br> Under his leadership, the club's focus shifted towards more **practical, hands-on activities**. We began prioritizing **project development, hosting technology-related bootcamps, and organizing hackathons**. The president strongly encouraged all committee members to participate in hackathons, regardless of their technical background.<br> <br> This new direction marked a significant change from our previous emphasis on building foundational knowledge in cryptocurrency. Instead, we started concentrating on **practical skill development and expanding our technical expertise**. While this approach offered valuable hands-on experience, it represented a departure from our earlier focus on comprehensive crypto education. <br> <br> Taking on the external relations role significantly boosted my personal and professional growth. I developed crucial skills in communication, networking, and strategic partnership building. This experience taught me to engage effectively with diverse partners, create mutually beneficial arrangements, and represent our club professionally. I learned to tailor my communication style, negotiate partnerships, and think creatively to align our goals with external parties. These skills have proven invaluable, contributing to both the club's success and my own ongoing personal development. <br><br><ins>Our bootcamp and hackathon series: </ins><br><br> APUBCC organized a series of **four high-impact bootcamps and a major Web3 hackathon** under the Road to Devcon grants program. These events, led by both local and international experts, armed participants with crucial industry knowledge and skills for Web3 success. The series evolved from foundational blockchain concepts to advanced topics like startup launch strategies and building thriving Web3 projects. With a focus on interactive learning and networking, the program not only **enhanced participants' skills** but also **prepared local students for Devcon—the world's premier Ethereum Developer Conference**.<div class="flex justify-center"><img src="/images/bootcamp-hackathon.png" alt="partners" class="w-full h-auto">
+</div><br>
 
 ## Challenges that we faced
 
 APUBCC is still a young club, started only three years ago. Like any new group, we are still figuring things out and facing the usual challenges that come with getting started. We are learning as we go, dealing with different problems, and working on becoming stronger and more flexible as a team.
 
 One of our primary hurdles has been **the development of a healthy organizational culture**. This including:
-- **Unhealthy team culture**
+- **Unhealthy team culture** <br>
 We have had some toxic behavior, including gossip among team members. This hurts our ability to work together and solve problems. Instead of talking things out directly, some people spread rumors and talking bad about others behind which damages trust in our team.
-- **Leadership and task distribution issues**
+- **Leadership and task distribution issues** <br>
 Leaders, including myself, often do tasks alone instead of sharing the work. We might think this is faster or ensures better quality, but it causes problems. Some team members end up with nothing to do, making them feel left out or unimportant.
 
 We also **face significant challenges in retaining committee members and contributors**:
@@ -117,12 +134,12 @@ We also **face significant challenges in retaining committee members and contrib
     - Focus on personal and professional growth
     
     Many lose interest because they fail to recognize these less tangible but more significant benefits. The club's value lies in the opportunities it provides for skill development and career advancement, not just in immediate material rewards. <br><br>
-- **Stress from frequent events**
+- **Stress from frequent events**<br>
     We reached a point where our club was organizing an excessive number of events without clear outcomes or benefits for our committees. This approach led to overwhelming stress and exhaustion among committee members, with a focus on quantity over quality in our events. We neglected the needs and growth of our organizing team in the process. Moving forward, we should prioritize quality events over sheer quantity, ensuring each event has clear benefits for both attendees and organizers. We also need to be more selective with our partnerships and event choices. As part of leadership team, I will take responsibility for overlooking this issue and am committed to addressing it. <br><br>
-- **Competing priorities**
+- **Competing priorities**<br>
     Many committee members resigned to focus on their Final Year Projects (FYP), highlighting the natural priority shift as students approach graduation. This underscores our need to better balance club activities with academic responsibilities. My personal approach was to prioritize club involvement, seeing greater long-term benefits, while still maintaining strong academic performance. Going forward, we should create more flexible roles for final-year students, explore ways to integrate club activities with academic projects, and highlight how club experiences can complement academic work. This balance can help us retain experienced members while respecting their academic commitments.
 
-Additionally, we are struggling with **community building**
+Additionally, we are struggling with **community building**:
 
 - **Low Engagement**
     
@@ -151,6 +168,8 @@ Additionally, we are struggling with **community building**
 
 These problems make it hard for our club to grow and keep members involved. We need to fix these issues to create a better environment where everyone works together, feels included, and can contribute effectively. This is crucial for the health and success of our club.
 
+<br>
+
 # Achievements
 
 ## Notable Club Achievements
@@ -158,7 +177,11 @@ These problems make it hard for our club to grow and keep members involved. We n
 Founded in 2021, APUBCC quickly became Malaysia's leading blockchain club, growing to about 600 members by 2024. We pioneered blockchain education in Malaysian universities, setting new standards for student engagement. Our rapid growth from zero to 600 members in three years shows both the rising importance of blockchain and our success in meeting students' educational needs. We are definitely proud to be the first student-led blockchain community in Malaysia, consistently expanding our reach and raising the bar for blockchain activities and learning in universities.
 
 ### **Best and Most Active Club within the university**
-In fact, we are recognized as one of the most active and influential student groups on campus. Our club stands out for its consistent, high-quality events that benefit the entire student body. In 2024 alone, we have organized 4 bootcamps, 4 workshops, 2 meetups, and 2 hackathons, among other initiatives. These events enhance blockchain skills, provide networking opportunities, and open career pathways for the students. Our frequent, diverse, and relevant activities have set a new benchmark for university clubs. By connecting academic learning with industry needs, we have become an essential resource for students in blockchain innovation. This commitment has earned us recognition as a top club in our university, significantly impacting our members' educational and career development.
+In fact, we are recognized as one of the most active and influential student groups on campus. Our club stands out for its consistent, high-quality events that benefit the entire student body. In 2024 alone, we have organized **4 bootcamps, 4 workshops, 3 meetups, and 2 hackathons**, among other initiatives. These events enhance blockchain skills, provide networking opportunities, and open career pathways for the students. Our frequent, diverse, and relevant activities have set a new benchmark for university clubs. By connecting academic learning with industry needs, we have become an essential resource for students in blockchain innovation. This commitment has earned us recognition as a top club in our university, significantly impacting our members' educational and career development.
+
+<div class="flex justify-center">
+  <img src="/images/apubcc-events.png" alt="partners" class="w-full h-auto">
+</div>
 
 
 ### **Most followed socials among all blockchain clubs in South East Asia**
@@ -169,7 +192,11 @@ APUBCC leads Southeast Asian blockchain clubs in social media presence. With 2,4
 </div>
 
 ### **International Presence**
-Our influence isn't limited to Malaysia or even Southeast Asia. APUBCC has established a strong international presence in the blockchain community. While the club is not solely about Yudhishthra, most of the members have participated in major global events like ETHSG, Solana Breakpoint, and Token2049, with plans for Devcon later this year. These engagements expose our members to the international blockchain scene and showcase Malaysian talent globally. We always encourage participation in worldwide hackathons and competitions, fostering innovation and collaboration. This international focus prepares our members for the global blockchain industry and positions APUBCC as a recognized name in international circles.
+Our influence isn't limited to Malaysia or even Southeast Asia. APUBCC has established a strong international presence in the blockchain community. In fact, most of the members have participated in major global events like ETHSG, Solana Breakpoint, and Token2049, with plans for Devcon later this year. These engagements expose our members to the international blockchain scene and showcase Malaysian talent globally. We always encourage participation in worldwide hackathons and competitions, fostering innovation and collaboration. This international focus prepares our members for the global blockchain industry and positions APUBCC as a recognized name in international circles. <br><br> <ins> Our team in ETHSG 2023: <ins>
+
+<div class="flex justify-center">
+  <img src="/images/apubcc-ethsg.png" alt="ethsg" class="w-full h-auto">
+</div>
 
 ### **Expansive Network of Industry Collaborations**
 In 2024 alone, APUBCC has built a strong network of over 30 partners in the blockchain space, including local and international entities. We collaborate with vibrant communities like ETHKL and Superteam Malaysia, as well as established protocols such as Arbitrum, Starknet, Solana, and Aptos. As our president is trying to be “chain-agnostic”, these different partnerships enable us to organize diverse events that cover various aspects of blockchain technology but not just on a “particular chain”. Our collaborations serve two main purposes which are enhancing member learning through industry insights and creating job opportunities by connecting skilled members with potential employers. By bridging academia and industry, APUBCC plays a key role in shaping the future blockchain workforce. Our extensive network has positioned us as a central hub in the blockchain ecosystem, facilitating knowledge exchange and driving talent growth in the region.
@@ -180,6 +207,10 @@ In 2024 alone, APUBCC has built a strong network of over 30 partners in the bloc
 
 ### **MDEC Accreditation**
 Receiving accreditation from the Malaysia Digital Economy Corporation (MDEC) is a significant milestone. This recognition from a government body validates our club's efforts in promoting digital literacy and blockchain technology. It also opens doors for more collaborations and support from the public sector, further strengthening our position as a leading blockchain education platform in Malaysia.
+
+<div class="flex justify-center">
+  <img src="/images/mdec.png" alt="mdec" class="w-auto h-full border border-slate">
+</div>
 
 ## Personal Achievements within the club
 Having discussed the club's achievements, let's shift focus to my personal accomplishments within APUBCC. 
@@ -203,12 +234,17 @@ Recognizing the importance of career development in the blockchain space, I crea
 ### **APUBCC Discord Server**
 To foster a sense of community and facilitate ongoing discussions, I established and managed APUBCC's Discord server. This digital space has become a hub of activity, with carefully organized channels covering various blockchain topics and interests. By actively moderating and encouraging engagement, I have helped to create a vibrant online community where members can network, share knowledge, and stay connected beyond our physical events.
 
+<div class="flex justify-center">
+  <img src="/images/apubcc-discord.png" alt="partners" class="w-full h-auto">
+</div>
+
 ### **Hosted 10+ Discussions + Twitter Space + IRL Events**
 I have been actively involved in organizing and hosting various APUBCC events. This includes moderating over 10 blockchain discussions, running Twitter Spaces, and coordinating in-person meetups. These events covered both technical and trending topics in blockchain. My goal has been to create learning opportunities, build community, and enhance APUBCC's reputation in blockchain education.
 
 ### **Additional Contributions**
 I also enhanced our club's research initiatives by producing informative articles. These showcased our expertise and provided valuable resources for members and the wider blockchain community. While my contributions to APUBCC have been extensive, these highlights represent my core impact areas, and I don't want to add any more because it is almost a 15-minute read for this piece. This concise overview captures my primary contributions to APUBCC's growth and success, even though I often mentioned I did nothing in APUBCC.
 
+<br>
 
 # Closing Thoughts
 
@@ -218,32 +254,40 @@ Before I conclude this piece, I would like to share my thoughts on various aspec
 
 As students, we should maximize our university experience beyond just attending classes and completing assignments. To truly thrive:
 
-- Actively join and contribute to clubs like APUBCC
-- Network and meet new people through various events
-- Prioritize internships and work opportunities to gain real-world experience
-- Build a strong portfolio through club activities, such as developing projects and writing articles
+- Actively **join and contribute to clubs** like APUBCC
+- **Network and meet new people** through various events
+- **Prioritize internships and work opportunities** to gain real-world experience
+- **Build a strong portfolio through club activities**, such as developing projects and writing articles
 
 Remember! University life isn't just about academic achievement; it's about personal growth and preparing for your future career.
 
 For the upcoming batch of committee members, we have high expectations:
 
-- Please support our next president, Aik Wei in their vision and initiatives
-- Practice empathy in your interactions with fellow members and the leadership
-- Offer constructive advice and support, even if outcomes don't always meet expectations
-- For those outside APUBCC, we encourage you to engage with and support our initiatives, recognizing that a thriving blockchain ecosystem benefits from diverse perspectives and collaborative efforts
+- Please **support our next president**, Aik Wei in their vision and initiatives
+- **Practice empathy in your interactions** with fellow members and the leadership
+- **Offer constructive advice and support**, even if outcomes don't always meet expectations
+- For those outside APUBCC, we encourage you to **engage with and support our initiatives and events**, recognizing that a thriving blockchain ecosystem benefits from diverse perspectives and collaborative efforts
 
-We also encourage continued support not just for APUBCC, but for all university blockchain clubs including Sunway Blockchain Club, Monash Blockchain Club, UiTM Blockchain Club and Taylors Blockchain Club. Together, we can foster a strong, collaborative blockchain community across campuses.
+We also encourage continued support not just for APUBCC, but for all university blockchain clubs including **Sunway Blockchain Club, Monash Blockchain Club, UiTM Blockchain Club and Taylors Blockchain Club**. Together, we can foster a strong, collaborative blockchain community across campuses.
 
 Lastly, I want to express my heartfelt gratitude to everyone who has worked alongside me these past three years. Your dedication and hard work have been instrumental in our club's success. <br><br>
 Special thanks to: 
-- Tan Aik Wei
-- Shaun Lim
-- Viishnu
-- Eeashann
-- Lim Kan Zheng
-- Megat Akif
-- Timothy Chin
-- Cody Liew
-- Lee Kai Min
+- [Tan Aik Wei (Community)](https://www.linkedin.com/in/tan-aik-wei/) (Bro is now President!)
+- [Shaun Lim (Research)](https://www.linkedin.com/in/shaunlim08)
+- [Viishnu (Research)](https://www.linkedin.com/in/viishnusreeganesh)
+- [Eeashann (Research)](https://www.linkedin.com/in/eeashann-sivasankar-a2040a1b9)
+- [Lim Kan Zheng (Research)](https://www.linkedin.com/in/kz-lim-2b38a51b7)
+- [Megat Akif (Research)](https://www.linkedin.com/in/megatakif)
+- [Timothy Chin (Research)](https://www.linkedin.com/in/tim-chnn)
+- [Cody Liew (Research)](https://www.linkedin.com/in/cody-liew-3388b81aa)
+- [Minn (External Relations)](https://x.com/minnnnnn_01) (Degen, No LinkedIn 😂)
 
 Your contributions have been invaluable, and I am confident that the foundation we have built together will continue to support APUBCC's growth and success in the years to come.
+
+<br>
+
+# Learn More
+- [APUBCC Website](https://www.apubcc.org/)
+- [APUBCC Job Board](https://jobs.apubcc.org/)
+- [APUBCC Linktree](https://linktr.ee/apublockchaincryptoclub)
+- [APUBCC Magazine]()
