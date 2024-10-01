@@ -1,6 +1,6 @@
 ---
 title: "3 years of building APUBCC, here's what I learned"
-description: "APU Blockchain and Crypto Club (APUBCC)"
+description: "Learn about APUBCC - from its beginnings to its current state. This article covers our three-year journey, main focus areas, challenges faced, and key achievements."
 date: "2024-09-15"
 image: "/images/apubcc-journey.png"
 slug: "apubcc-journey"
